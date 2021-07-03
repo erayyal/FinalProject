@@ -1,0 +1,334 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eray/RiderProjects/FinalProject/ConsoleUI/ConsoleUI.csproj": {}
+  },
+  "projects": {
+    "/Users/eray/RiderProjects/FinalProject/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eray/RiderProjects/FinalProject/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/eray/RiderProjects/FinalProject/Business/Business.csproj",
+        "packagesPath": "/Users/eray/.nuget/packages/",
+        "outputPath": "/Users/eray/RiderProjects/FinalProject/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eray/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/eray/RiderProjects/FinalProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/eray/RiderProjects/FinalProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eray/RiderProjects/FinalProject/ConsoleUI/ConsoleUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eray/RiderProjects/FinalProject/ConsoleUI/ConsoleUI.csproj",
+        "projectName": "ConsoleUI",
+        "projectPath": "/Users/eray/RiderProjects/FinalProject/ConsoleUI/ConsoleUI.csproj",
+        "packagesPath": "/Users/eray/.nuget/packages/",
+        "outputPath": "/Users/eray/RiderProjects/FinalProject/ConsoleUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eray/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/eray/RiderProjects/FinalProject/Business/Business.csproj": {
+                "projectPath": "/Users/eray/RiderProjects/FinalProject/Business/Business.csproj"
+              },
+              "/Users/eray/RiderProjects/FinalProject/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/eray/RiderProjects/FinalProject/DataAccess/DataAccess.csproj"
+              },
+              "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eray/RiderProjects/FinalProject/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eray/RiderProjects/FinalProject/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/eray/RiderProjects/FinalProject/Core/Core.csproj",
+        "packagesPath": "/Users/eray/.nuget/packages/",
+        "outputPath": "/Users/eray/RiderProjects/FinalProject/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eray/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eray/RiderProjects/FinalProject/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eray/RiderProjects/FinalProject/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/eray/RiderProjects/FinalProject/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/eray/.nuget/packages/",
+        "outputPath": "/Users/eray/RiderProjects/FinalProject/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eray/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/eray/RiderProjects/FinalProject/Core/Core.csproj": {
+                "projectPath": "/Users/eray/RiderProjects/FinalProject/Core/Core.csproj"
+              },
+              "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj": {
+                "projectPath": "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/eray/RiderProjects/FinalProject/Entities/Entities.csproj",
+        "packagesPath": "/Users/eray/.nuget/packages/",
+        "outputPath": "/Users/eray/RiderProjects/FinalProject/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eray/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/eray/RiderProjects/FinalProject/Core/Core.csproj": {
+                "projectPath": "/Users/eray/RiderProjects/FinalProject/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

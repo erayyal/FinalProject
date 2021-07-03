@@ -1,0 +1,12 @@
+/Users/eray/RiderProjects/FinalProject/Core/bin/Debug/net5.0/Core.deps.json
+/Users/eray/RiderProjects/FinalProject/Core/bin/Debug/net5.0/Core.dll
+/Users/eray/RiderProjects/FinalProject/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/eray/RiderProjects/FinalProject/Core/bin/Debug/net5.0/Core.pdb
+/Users/eray/RiderProjects/FinalProject/Core/obj/Debug/net5.0/Core.csprojAssemblyReference.cache
+/Users/eray/RiderProjects/FinalProject/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eray/RiderProjects/FinalProject/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/eray/RiderProjects/FinalProject/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/eray/RiderProjects/FinalProject/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/eray/RiderProjects/FinalProject/Core/obj/Debug/net5.0/Core.dll
+/Users/eray/RiderProjects/FinalProject/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/eray/RiderProjects/FinalProject/Core/obj/Debug/net5.0/Core.pdb

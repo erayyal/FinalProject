@@ -1,0 +1,17 @@
+/Users/eray/RiderProjects/FinalProject/DataAccess/bin/Debug/net5.0/DataAccess.deps.json
+/Users/eray/RiderProjects/FinalProject/DataAccess/bin/Debug/net5.0/DataAccess.dll
+/Users/eray/RiderProjects/FinalProject/DataAccess/bin/Debug/net5.0/ref/DataAccess.dll
+/Users/eray/RiderProjects/FinalProject/DataAccess/bin/Debug/net5.0/DataAccess.pdb
+/Users/eray/RiderProjects/FinalProject/DataAccess/bin/Debug/net5.0/Entities.dll
+/Users/eray/RiderProjects/FinalProject/DataAccess/bin/Debug/net5.0/Entities.pdb
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/DataAccess.csprojAssemblyReference.cache
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/DataAccess.AssemblyInfoInputs.cache
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/DataAccess.AssemblyInfo.cs
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/DataAccess.csproj.CopyComplete
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/DataAccess.dll
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/ref/DataAccess.dll
+/Users/eray/RiderProjects/FinalProject/DataAccess/obj/Debug/net5.0/DataAccess.pdb
+/Users/eray/RiderProjects/FinalProject/DataAccess/bin/Debug/net5.0/Core.dll
+/Users/eray/RiderProjects/FinalProject/DataAccess/bin/Debug/net5.0/Core.pdb
