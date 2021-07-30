@@ -1,5 +1,4 @@
 using Autofac;
-using Autofac.Core;
 using Autofac.Extensions.DependencyInjection;
 using Business.DependencyResolves.Autofac;
 using Microsoft.AspNetCore.Hosting;

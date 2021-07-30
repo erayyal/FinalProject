@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "Castle.Core": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[10.2.3, )"
@@ -57,6 +61,22 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0-preview.6.21352.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-preview.6.21352.12, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.11.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.1, )"
             }
           },
           "imports": [
@@ -115,6 +135,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0-preview.6.21352.12, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

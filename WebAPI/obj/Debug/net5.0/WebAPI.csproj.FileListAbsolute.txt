@@ -37,7 +37,6 @@
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
-/Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Newtonsoft.Json.dll
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/System.Runtime.Caching.dll
@@ -67,3 +66,10 @@
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/FluentValidation.dll
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Autofac.Extras.DynamicProxy.dll
 /Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Castle.Core.dll
+/Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.Extensions.Primitives.dll
+/Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/eray/RiderProjects/FinalProject/WebAPI/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll

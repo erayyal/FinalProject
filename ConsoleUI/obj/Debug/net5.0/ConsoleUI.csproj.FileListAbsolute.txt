@@ -72,3 +72,11 @@
 /Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Autofac.Extensions.DependencyInjection.dll
 /Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Autofac.Extras.DynamicProxy.dll
 /Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Castle.Core.dll
+/Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Microsoft.AspNetCore.Http.dll
+/Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Microsoft.AspNetCore.WebUtilities.dll
+/Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Microsoft.Extensions.ObjectPool.dll
+/Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/Microsoft.Net.Http.Headers.dll
+/Users/eray/RiderProjects/FinalProject/ConsoleUI/bin/Debug/net5.0/System.Runtime.CompilerServices.Unsafe.dll

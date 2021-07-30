@@ -5,11 +5,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Abstract" />
+      <ProjectReference Include="..\Core\Core.csproj" />
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Core\Core.csproj" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0-preview.6.21352.12" />
     </ItemGroup>
 
 </Project>
