@@ -16,5 +16,6 @@ namespace Business.Constants
         public static string UserRegistered="Kullanıcı kaydoldu";
         public static string UserNotFound="Kullanıcı bulunamadı";
         public static string AccessTokenCreated="Token oluşturuldu";
+        public static string TryGitHub = "";
     }
 }

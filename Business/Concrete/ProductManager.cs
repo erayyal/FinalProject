@@ -1,7 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using Business.Abstract;
-using Business.BusinessAspects.Autofac;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
@@ -25,6 +24,7 @@ namespace Business.Concrete
             _categoryService = categoryService;
         }
 
+        //[CacheAspect]  //key(cache'in adı), value
         public IDataResult<List<Product>> GetAll()
         {
             return new SuccessDataResult<List<Product>>(_productDal.GetAll(),Messages.ProductListed);
@@ -53,7 +53,8 @@ namespace Business.Concrete
         //JWT = Api'li yapılarda Yetkilendirme
         //Claim
         //Client=mobil, web uygulama, tarayıcılar 
-        [SecuredOperation("product.add,admin")]
+        
+        //[SecuredOperation("product.add,admin")] Kayıt olunuyor fakat giriş yap kısmında hata görünüyor ?_
         [ValidationAspect(typeof(ProductValidator))] //attribute = Belli kurallardır önce bunlar çalışır. Anlam yükler.
         public IResult Add(Product product)
         {
